@@ -1,7 +1,7 @@
 oemof streamlit example
 =======================
 
-Now the following steps within the cloned repository should start the app under
+The following steps within the cloned repository should start the app under
 Windows 10 using `Python 3.9.10`:
 
 ```bash
