@@ -1,5 +1,5 @@
-BSS Analyse
-===========
+oemof streamlit analysis
+========================
 
 Now the following steps within the cloned repository should start the app under
 Windows 10:
