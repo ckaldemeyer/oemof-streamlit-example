@@ -1,5 +1,5 @@
-oemof streamlit analysis
-========================
+oemof streamlit example
+=======================
 
 Now the following steps within the cloned repository should start the app under
 Windows 10:
