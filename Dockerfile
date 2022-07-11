@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY . /app
 
-RUN ls -l
+RUN apt-get update && apt-get -y install coinor-cbc  # install CBC solver (untested)
 
 RUN pip install pip-tools
 
