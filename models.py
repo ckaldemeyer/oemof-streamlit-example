@@ -29,7 +29,7 @@ def run_storage(
     bss_eta_out=0.95,
     grid_max_power_consumption=1000000,
     grid_max_power_feedin=1000000,
-    solver="scip",
+    solver="cbc",
 ):
 
     data.index.freq = "1h"
